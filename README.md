@@ -22,19 +22,19 @@
 
 - Project 1: A Simple Blog (Beginner Level)
 
-        Create a simple blog where users can read posts.
-        Use JavaScript for the logic, DOM manipulation for the user interface, and LocalStorage for storing the posts.
-        Each post should have a title, content, and author.
-        Users should be able to create, read, update, and delete posts.
+        - Create a simple blog where users can read posts.
+        - Use JavaScript for the logic, DOM manipulation for the user interface, and LocalStorage for storing the posts.
+        - Each post should have a title, content, and author.
+        - Users should be able to create, read, update, and delete posts.
 
 
 - Project 2: Note Taking App (Intermediate Level)
 
-        Create a note-taking app where users can create, read, update, and delete notes.
-        Use Express for the backend, MongoDB for the database, and React for the frontend.
-        Implement user authentication using JWT.
-        Each note should have a title and content.
-        Users should be able to search for notes by title.
+        - Create a note-taking app where users can create, read, update, and delete notes.
+        - Use Express for the backend, MongoDB for the database, and React for the frontend.
+        - Implement user authentication using JWT.
+        - Each note should have a title and content.
+        - Users should be able to search for notes by title.
 
 
 - Project: Hostel Booking Website (Advanced Level)
